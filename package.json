@@ -24,6 +24,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lerna": "^6.0.3"
+    "lerna": "^7.0.0"
   }
 }
